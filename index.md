@@ -9,10 +9,10 @@ My GitHub page is http://github.com/GeorgeRivadeneyra.
 ### CPSC 120
 * Lab 7
 
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+    Lab 7, part 2 was my favorite because I was always wandering of how the game 
+    Blackjack works. in computers and I was able to undsterand that by writing functions for this lab and how
+    that calculating the correct value of a Blackjack hand no matter how many
+    Aces were dealt in which it show me how the games of card are coded and it gives me a great example for how some games work.
 * lab 2
     The reason lab 02 is my favorite is because it introduces us to strings and how we use it so we can use it for other labs 
     further down the line as almost every lab uses string.
